@@ -3,8 +3,7 @@
 Este es un proyecto simple y ligero que implementa un modo oscuro y claro usando HTML, CSS y JavaScript puro. El objetivo es demostrar cómo se puede alternar entre temas visuales sin necesidad de frameworks o librerías externas, guardando la selección en el localstorage del navegador.
 
 ## 🔗 Demo en vivo
-👉 dark-mode-js-snowy.vercel.app
-
+👉 [Ver demo en Vercel](https://dark-mode-js-snowy.vercel.app/)
 ## 🚀 Características
 
 - Modo claro y modo oscuro.
